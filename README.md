@@ -10,11 +10,13 @@ Languages: C, HTML, CSS, JavaScript
 Frameworks & Libraries: React.js, Bootstrap, Tailwind CSS
 
 Tools & Platforms: Git, GitHub, VS Code, Figma
+
 🚀 What I Do:
 
 Build interactive, visually appealing websites
 Focus on accessibility, performance, and responsive design
 Continuously learn and experiment with new web technologies
+
 📌 Current Goals:
 
 Strengthen my JavaScript & React skills
