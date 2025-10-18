@@ -6,7 +6,9 @@
 🔧 Tech Stack:
 
 Languages: C, HTML, CSS, JavaScript
+
 Frameworks & Libraries: React.js, Bootstrap, Tailwind CSS
+
 Tools & Platforms: Git, GitHub, VS Code, Figma
 🚀 What I Do:
 
