@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Hafijur Rahman Safin
-#### Front-end Web Developer | Web Designer
+## Hi there 👋, I'm Hafijur Rahman Safin
+### Front-end Web Developer | Web Designer
 
 💻 CSE Student @Green University of Bangladesh (GUB) 🌐 Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
 
