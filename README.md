@@ -15,21 +15,21 @@ Tools & Platforms: Git, GitHub, VS Code, Figma
 
 Build interactive, visually appealing websites
 Focus on accessibility, performance, and responsive design
-Continuously learn and experiment with new web technologies
+Continuously learn and experiment with new web technologies.
 
 📌 Current Goals:
 
 Strengthen my JavaScript & React skills
 Explore back-end development to become full-stack
-Contribute to open-source projects
+Contribute to open-source projects.
 
 Skills: C / HTML / CSS / JavaScript
 
 - 🔭 I’m currently working on My personal portfolio website. 
 - 🌱 I’m currently learning "JavaScript" and "C" Programming. 
-- 👯 I’m looking to collaborate on GitHub 
+- 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Improving my coding logic and debugging skills. 
-- 💬 Ask me about Web DevelWeb development, HTML, CSS, or beginner-friendly coding tips.opment 
+- 💬 Ask me about Web DevelWeb development, HTML, CSS, or beginner-friendly coding tips.opment.
 - 📫 How to reach me: jubayersafin4@gmail.com | https://www.linkedin.com/in/hafijur-rahman-safin 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love solving coding challenges and creating fun projects in my free time! 
