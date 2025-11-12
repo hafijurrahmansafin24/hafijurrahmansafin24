@@ -45,9 +45,7 @@ Skills: C / HTML / CSS / JavaScript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafijurrahmansafin24&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hafijurrahmansafin24/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hafijurrahmansafin24)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hafijurrahmansafin24/contributions?format=svg&private=true) 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/safin4/contributions?format=svg&private=true) 
 
