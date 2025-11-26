@@ -49,5 +49,9 @@ Skills: C / HTML / CSS / JavaScript
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/safin4/contributions?format=svg&private=true) 
 
+### 📈 GitHub Activity Graph
+<!-- Activity Graph showcasing your GitHub activity -->
+[![Safin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafijurrahmansafin24&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hafijurrahmansafin24)  
 
